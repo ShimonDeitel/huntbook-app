@@ -1,0 +1,42 @@
+{
+  "identifier": "huntbook",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Huntbook Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "huntbook_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks harvest details tracking and multi-season stand notes.",
+              "displayName": "Huntbook Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "huntbook_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Huntbook Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
