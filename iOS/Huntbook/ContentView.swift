@@ -12,6 +12,10 @@ struct ContentView: View {
     @State private var newSpecies: String = ""
     @State private var newHoursOut: String = ""
 
+    @State private var editLocation: String = ""
+    @State private var editSpecies: String = ""
+    @State private var editHoursOut: String = ""
+
     var body: some View {
         NavigationStack {
             ZStack {
